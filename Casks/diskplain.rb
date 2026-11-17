@@ -1,6 +1,6 @@
 cask "diskplain" do
-  version "0.9,2"
-  sha256 "022fa7d5d8ab67e0bff8d7895933389e26a394f0c73ed26d96983a5df8aebe33"
+  version "0.9,3"
+  sha256 "1e5ca653216ad8c4283f580218845097da9bc770287224594784e19b63907ab6"
 
   url "https://diskplain.limedot.io/download/Diskplain-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Diskplain"
