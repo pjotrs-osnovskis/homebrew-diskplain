@@ -5,7 +5,7 @@ cask "diskplain" do
   url "https://diskplain.limedot.io/download/Diskplain-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Diskplain"
   desc "Disk space analyser that explains what each folder is"
-  homepage "https://diskplain.limedot.io/"
+  homepage "https://limedot.io/diskplain/"
 
   livecheck do
     url "https://diskplain.limedot.io/appcast.xml"
