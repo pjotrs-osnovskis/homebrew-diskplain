@@ -2,7 +2,7 @@ cask "diskplain" do
   version "0.9,3"
   sha256 "1e5ca653216ad8c4283f580218845097da9bc770287224594784e19b63907ab6"
 
-  url "https://diskplain.limedot.io/download/Diskplain-#{version.csv.first}-#{version.csv.second}.dmg"
+  url "https://diskplain.limedot.io/download/brew/Diskplain-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Diskplain"
   desc "Disk space analyser that explains what each folder is"
   homepage "https://limedot.io/diskplain/"
